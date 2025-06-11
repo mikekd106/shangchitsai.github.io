@@ -53,8 +53,8 @@ interests:
 education:
   - area: Ph.D. Computer Science
     institution: National Taiwan University (NTU)
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-09-01
+    date_end: 2025-07-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -62,8 +62,8 @@ education:
       url: 'https://example.com'
   - area: M.S. Data Science  
     institution: National Taiwan University (NTU)
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2017-09-01
+    date_end: 2019-07-31
     summary: |
       GPA: 3.8/4.0
 
@@ -73,8 +73,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.S. Computer Science 
     institution: National Taiwan University (NTU)
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2012-09-01
+    date_end: 2017-01-31
     summary: |
       GPA: 3.4/4.0
       
