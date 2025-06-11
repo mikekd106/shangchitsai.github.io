@@ -3,7 +3,7 @@
 title: 蔡尚錡
 
 # Name pronunciation (optional)
-name_pronunciation: Shang Chi Tsai
+name_pronunciation: Tsai Shang Chi
 
 # Full name (for SEO)
 first_name: Shang Chi 
