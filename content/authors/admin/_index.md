@@ -51,7 +51,7 @@ interests:
   - Medical Text Understanding
 
 education:
-  - area: PhD Computer Science and Information Engineering
+  - area: Ph.D. Computer Science
     institution: National Taiwan University (NTU)
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -60,7 +60,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MSc Data Science Degree Program 
+  - area: M.S. Data Science  
     institution: National Taiwan University (NTU)
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -71,7 +71,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Computer Science and Information Engineering
+  - area: B.S. Computer Science 
     institution: National Taiwan University (NTU)
     date_start: 2016-01-01
     date_end: 2020-12-31
