@@ -11,7 +11,7 @@ last_name: Tsai
 
 # Status emoji
 status:
-  icon: 🎓 💻 🏀
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:d08922014@ntu.edu.tw'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/mikekd106
   - icon: brands/instagram
     url: https://www.instagram.com/mikekd106/
   - icon: brands/github
@@ -47,8 +47,8 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Natural Language Processing
+  - Medical Text Understanding
 
 education:
   - area: PhD Artificial Intelligence
