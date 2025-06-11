@@ -51,8 +51,8 @@ interests:
   - Medical Text Understanding
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Computer Science and Information Engineering
+    institution: National Taiwan University (NTU)
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -60,8 +60,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MSc Data Science Degree Program 
+    institution: National Taiwan University (NTU)
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -71,8 +71,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc Computer Science and Information Engineering
+    institution: National Taiwan University (NTU)
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
