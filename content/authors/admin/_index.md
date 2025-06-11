@@ -1,9 +1,7 @@
 ---
 # Display name
-title: 蔡尚錡(Sean)
+title: Shang-Chi (Sean) Tsai
 
-# Name pronunciation (optional)
-name_pronunciation: Tsai Shang Chi
 
 # Full name (for SEO)
 first_name: Shang Chi 
