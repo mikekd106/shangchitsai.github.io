@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 蔡尚錡
+title: 蔡尚錡(Sean)
 
 # Name pronunciation (optional)
 name_pronunciation: Tsai Shang Chi
