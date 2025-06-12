@@ -68,7 +68,7 @@ education:
       Thesis on _Leveraging Hierarchical Category Knowledge for Multi-Label Diagnostic Text Understanding_. Supervised by [Prof Yun-Nung Chen](https://www.csie.ntu.edu.tw/~yvchen/). Presented papers at 1 conferences on medical NLP.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://tdr.lib.ntu.edu.tw/handle/123456789/599'
       
   - area: B.S. Computer Science 
     institution: National Taiwan University (NTU)
@@ -78,6 +78,7 @@ education:
       Experience included:
       - Research project at NTU Medical Informatics Lab supervised by [Prof Fei-Pei Lai](https://sites.google.com/site/medinfolabatntu/%E9%A6%96%E9%A0%81?authuser=0)
       - Reseach intern at Academia Sinica Bioinformatics Lab supervised by [Prof Huai-Kuang Tsai](https://homepage.iis.sinica.edu.tw/pages/hktsai/contact_zh.html)
+      - Software engineering intern at Portwell, Inc.
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
