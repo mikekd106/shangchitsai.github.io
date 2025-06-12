@@ -82,7 +82,7 @@ education:
 work:
   - position: Research Intern, Knowledge Acquisition and Dialogue Research Team 
     company_name: REKEN, Japan
-    company_url: 'https://www.riken.jp/en/research/labs/r-ih/'
+    company_url: https://www.riken.jp/en/research/labs/r-ih/
     company_logo: ''
     date_start: 2023-08-15
     date_end: 2024-09-15
@@ -91,9 +91,10 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
   - position: Machine Learning Engineering Intern, ChatBot Group
     company_name: Appier, Inc.
-    company_url: 'https://www.appier.com/en/'
+    company_url: https://www.appier.com/en/
     company_logo: ''
     date_start: 2022-03-01
     date_end: 2022-09-31
