@@ -54,7 +54,9 @@ education:
     date_start: 2019-09-01
     date_end: 2025-07-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Advancing Healthcare Application Usability and Medical Document
+      Understanding via Language Modeling Techniques_. Supervised by [Prof YUN-NUNG CHEN](https://www.csie.ntu.edu.tw/~yvchen/). Presented papers at 5 conferences on medical NLP and dialogue systems.
+
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -63,19 +65,13 @@ education:
     date_start: 2017-09-01
     date_end: 2019-07-31
     summary: |
-      GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      
   - area: B.S. Computer Science 
     institution: National Taiwan University (NTU)
     date_start: 2012-09-01
     date_end: 2017-01-31
     summary: |
-      GPA: 3.4/4.0
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
