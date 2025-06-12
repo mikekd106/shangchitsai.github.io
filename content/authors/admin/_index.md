@@ -55,7 +55,7 @@ education:
     date_end: 2025-07-31
     summary: |
       Thesis on _Advancing Healthcare Application Usability and Medical Document
-      Understanding via Language Modeling Techniques_. Supervised by [Prof YUN-NUNG CHEN](https://www.csie.ntu.edu.tw/~yvchen/). Presented papers at 5 conferences on medical NLP and dialogue systems.
+      Understanding via Language Modeling Techniques_. Supervised by [Prof Yun-Nung Chen](https://www.csie.ntu.edu.tw/~yvchen/). Presented papers at 5 conferences on medical NLP and dialogue systems.
 
     button:
       text: 'Read Thesis'
@@ -65,7 +65,7 @@ education:
     date_start: 2017-09-01
     date_end: 2019-07-31
     summary: |
-      Thesis on _Leveraging Hierarchical Category Knowledge for Multi-Label Diagnostic Text Understanding_. Supervised by [Prof YUN-NUNG CHEN](https://www.csie.ntu.edu.tw/~yvchen/). Presented papers at 1 conferences on medical NLP.
+      Thesis on _Leveraging Hierarchical Category Knowledge for Multi-Label Diagnostic Text Understanding_. Supervised by [Prof Yun-Nung Chen](https://www.csie.ntu.edu.tw/~yvchen/). Presented papers at 1 conferences on medical NLP.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -75,10 +75,9 @@ education:
     date_start: 2012-09-01
     date_end: 2017-01-31
     summary: |
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Experience included:
+      - Research project at NTU Medical Informatics Lab supervised by [Prof Fei-Pei Lai](https://sites.google.com/site/medinfolabatntu/%E9%A6%96%E9%A0%81?authuser=0)
+      - Reseach intern at Academia Sinica Bioinformatics Lab supervised by [Prof Huai-Kuang Tsai](https://homepage.iis.sinica.edu.tw/pages/hktsai/contact_zh.html)
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
