@@ -80,19 +80,17 @@ education:
       - Reseach intern at Academia Sinica Bioinformatics Lab supervised by [Prof Huai-Kuang Tsai](https://homepage.iis.sinica.edu.tw/pages/hktsai/contact_zh.html)
       - Software engineering intern at Portwell, Inc.
 work:
-  - position: Machine Learning Engineering Intern, ChatBot Group
-    company_name: Appier, Inc.
-    company_url: ''
-    company_logo: ''
-    date_start: 2022-03-01
-    date_end: 2022-09-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  
-
+  - position: Research Intern, Knowledge Acquisition and Dialogue Research Team 
+      company_name: REKEN, Japan
+      company_url: https://www.riken.jp/en/research/labs/r-ih/
+      company_logo: ''
+      date_start: 2023-08-15
+      date_end: 2024-09-15
+      summary: |
+        Responsibilities include:
+        - lorem ipsum dolor sit amet, consectetur adipiscing elit
+        - lorem ipsum dolor sit amet, consectetur adipiscing elit
+        - lorem ipsum dolor sit amet, consectetur adipiscing elit
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
