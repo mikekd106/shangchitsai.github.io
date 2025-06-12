@@ -55,7 +55,9 @@ education:
     date_end: 2025-07-31
     summary: |
       Thesis on _Advancing Healthcare Application Usability and Medical Document
-      Understanding via Language Modeling Techniques_. Supervised by [Prof YUN-NUNG CHEN](https://www.csie.ntu.edu.tw/~yvchen/). Presented papers at 5 conferences on medical NLP and dialogue systems.
+      Understanding via Language Modeling Techniques_. 
+      Supervised by [Prof YUN-NUNG CHEN](https://www.csie.ntu.edu.tw/~yvchen/). 
+      Presented papers at 5 conferences on medical NLP and dialogue systems.
 
     button:
       text: 'Read Thesis'
