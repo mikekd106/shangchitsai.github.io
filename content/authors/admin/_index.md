@@ -91,28 +91,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Machine Learning Engineering Intern, ChatBot Group
-    company_name: Appier, Inc.
-    company_url: 'https://www.appier.com/en/'
-    company_logo: ''
-    date_start: 2022-03-01
-    date_end: 2022-09-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: AI Engineering Intern, NLP Group
-    company_name: ASUS, Inc.
-    company_url: 'https://aics.asus.com/home/'
-    company_logo: ''
-    date_start: 2019-09-01
-    date_end: 2021-06-01
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
