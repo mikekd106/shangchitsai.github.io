@@ -95,8 +95,8 @@ work:
     company_name: Appier, Inc
     company_url: https://www.appier.com/en/
     company_logo: ''
-    date_start: 2023-08-15
-    date_end: 2024-09-15
+    date_start: 2022-03-15
+    date_end: 2022-09-15
     summary: |
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
