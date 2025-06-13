@@ -102,12 +102,12 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Research Intern, Knowledge Acquisition and Dialogue Research Team 
-    company_name: REKEN, Japan
-    company_url: https://www.riken.jp/en/research/labs/r-ih/
+  - position: AI Engineering Intern, NLP Group 
+    company_name: ASUS, Inc.
+    company_url: https://aics.asus.com/home/
     company_logo: ''
-    date_start: 2023-08-15
-    date_end: 2024-09-15
+    date_start: 2019-09-15
+    date_end: 2021-06-15
     summary: |
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
