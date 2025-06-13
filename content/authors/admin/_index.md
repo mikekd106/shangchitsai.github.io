@@ -92,7 +92,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Machine Learning Engineering Intern, ChatBot Group 
-    company_name: Appier, Inc
+    company_name: Appier, Inc.
     company_url: https://www.appier.com/en/
     company_logo: ''
     date_start: 2022-03-15
@@ -126,7 +126,7 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: LLM
         description: ''
         percent: 40
         icon: circle-stack
@@ -138,11 +138,11 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Basketball
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Traveling
         description: ''
         percent: 80
         icon: camera
