@@ -99,9 +99,8 @@ work:
     date_end: 2022-09-15
     summary: |
       Responsibilities include:
-      - lorem
-      - lorem
-      - lorem 
+      - Building a system that recommends customized chatbot templates based on a company's needs and dialogue history.
+      
   - position: AI Engineering Intern, NLP Group 
     company_name: ASUS, Inc.
     company_url: https://aics.asus.com/home/
@@ -110,9 +109,9 @@ work:
     date_end: 2021-06-15
     summary: |
       Responsibilities include:
-      - lorem
-      - lorem
-      - lorem
+      - Training different NLP models for clinical documents understanding and diagnosis codes classification.
+      - Developing AI clinical service for doctors, including electronic health records summarization and medical key words extraction.
+      
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
