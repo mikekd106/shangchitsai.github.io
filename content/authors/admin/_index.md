@@ -81,16 +81,16 @@ education:
       - Software engineering intern at Portwell, Inc.
 work:
   - position: Research Intern, Knowledge Acquisition and Dialogue Research Team 
-    company_name: REKEN, Japan
+    company_name: RIKEN, Japan
     company_url: https://www.riken.jp/en/research/labs/r-ih/
     company_logo: ''
     date_start: 2023-08-15
     date_end: 2024-09-15
     summary: |
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developing data augmentation methods that combines large language models and diffusion models to generate various scenario data for robots serving humans.
+      - Building a multi-modal large language model that can understand its surrounding environment and an ambiguous request of human, then predict an appropriate action as a response.
+      
   - position: Machine Learning Engineering Intern, ChatBot Group 
     company_name: Appier, Inc.
     company_url: https://www.appier.com/en/
@@ -99,9 +99,9 @@ work:
     date_end: 2022-09-15
     summary: |
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem
+      - lorem
+      - lorem 
   - position: AI Engineering Intern, NLP Group 
     company_name: ASUS, Inc.
     company_url: https://aics.asus.com/home/
@@ -110,9 +110,9 @@ work:
     date_end: 2021-06-15
     summary: |
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem
+      - lorem
+      - lorem
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
