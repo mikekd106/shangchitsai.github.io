@@ -25,6 +25,12 @@ abstract: 'Automatically classifying electronic health records (EHRs) into diagn
   framework can overcome the challenges and achieves state-of-the-art performance
   in terms of multiple metrics on the benchmark MIMIC data. Our source code is available
   at r̆lhttps://github.com/MiuLab/PLM-ICD.'
+
+tags:
+  - Pretrained Language Models
+
+featured: true
+
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2207.05289
