@@ -2,7 +2,7 @@
 title: 'PLM-ICD: Automatic ICD Coding with Pretrained Language Models'
 authors:
 - Chao-Wei Huang
-- Shang-Chi Tsai
+- *Shang-Chi Tsai*
 - Yun-Nung Chen
 date: '2022-07-01'
 publishDate: '2025-06-15T13:39:47.959127Z'
