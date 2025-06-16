@@ -2,7 +2,7 @@
 title: 'PLM-ICD: Automatic ICD Coding with Pretrained Language Models'
 authors:
 - Chao-Wei Huang
-- **Shang-Chi Tsai**
+- Shang-Chi Tsai
 - Yun-Nung Chen
 date: '2022-07-01'
 publishDate: '2025-06-15T13:39:47.959127Z'
@@ -25,6 +25,8 @@ abstract: 'Automatically classifying electronic health records (EHRs) into diagn
   framework can overcome the challenges and achieves state-of-the-art performance
   in terms of multiple metrics on the benchmark MIMIC data. Our source code is available
   at r̆lhttps://github.com/MiuLab/PLM-ICD.'
+
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Pretrained Language Models
