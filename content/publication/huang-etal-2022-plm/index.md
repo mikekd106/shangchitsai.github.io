@@ -26,6 +26,8 @@ abstract: 'Automatically classifying electronic health records (EHRs) into diagn
   in terms of multiple metrics on the benchmark MIMIC data. Our source code is available
   at r̆lhttps://github.com/MiuLab/PLM-ICD.'
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/2207.05289
 - name: URL
   url: https://aclanthology.org/2022.clinicalnlp-1.2/
 ---
