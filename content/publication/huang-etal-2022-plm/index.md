@@ -36,4 +36,8 @@ links:
   url: https://arxiv.org/abs/2207.05289
 - name: URL
   url: https://aclanthology.org/2022.clinicalnlp-1.2/
+
+url_code: 'https://github.com/MiuLab/PLM-ICD'
+
+
 ---
