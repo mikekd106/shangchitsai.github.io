@@ -24,6 +24,8 @@ abstract: Given the clinical notes written in electronic health records (EHRs), 
   is able to improve upon best-performing predictors for medical code prediction on
   the benchmark MIMIC datasets.
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/2106.12800
 - name: URL
   url: https://aclanthology.org/2021.naacl-main.318/
 ---
