@@ -9,7 +9,7 @@ publishDate: '2025-06-15T13:39:47.959127Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 4th Clinical Natural Language Processing Workshop*'
-doi: 10.18653/v1/2022.clinicalnlp-1.2
+
 abstract: 'Automatically classifying electronic health records (EHRs) into diagnostic
   codes has been challenging to the NLP community. State-of-the-art methods treated
   this problem as a multi-label classification problem and proposed various architectures
