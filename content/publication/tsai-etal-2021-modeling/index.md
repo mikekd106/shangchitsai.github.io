@@ -10,7 +10,7 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the 2021 Conference of the North American Chapter of
   the Association for Computational Linguistics: Human Language Technologies*'
-doi: 10.18653/v1/2021.naacl-main.318
+
 abstract: Given the clinical notes written in electronic health records (EHRs), it
   is challenging to predict the diagnostic codes which is formulated as a multi-label
   classification task. The large set of labels, the hierarchical dependency, and the
