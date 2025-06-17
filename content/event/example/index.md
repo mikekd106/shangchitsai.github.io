@@ -1,16 +1,16 @@
 ---
-title: Example Talk
+title: IWSDS 2025 Oral Presentation
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: The 15th International Workshop on Spoken Dialogue Systems Technology
+event_url: https://sites.google.com/view/iwsds2025/home?authuser=0
 
-location: Hugo Blox Builder HQ
+location: Bizkaia Aretoa UPV/EHU
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Avenida Abandoibarra 3
+  city: Bilbao
+  region: Basque Country
+  postcode: '48009'
+  country: Spain
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
