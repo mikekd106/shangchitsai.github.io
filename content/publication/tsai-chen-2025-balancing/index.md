@@ -28,6 +28,9 @@ abstract: With the advancement of large language models, many dialogue systems a
   significantly enhances the model′s ability to generate emotional responses while
   maintaining its original capability to provide accurate knowledge-based answers.
 links:
+- name: arXiv
+  url: https://arxiv.org/abs/2506.13692
 - name: URL
   url: https://aclanthology.org/2025.iwsds-1.9/
+url_code: 'https://github.com/MiuLab/EmoDoctor'
 ---
