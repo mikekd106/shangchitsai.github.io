@@ -43,7 +43,7 @@ image:
 #    url: https://twitter.com/georgecushen
 url_code: 'https://github.com/MiuLab/EmoDoctor'
 url_pdf: ''
-url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/1amf9VLuHoedVszS2XJs1qNotFa6Xr_-i/edit?usp=sharing&ouid=104560555871695589470&rtpof=true&sd=true'
 url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
