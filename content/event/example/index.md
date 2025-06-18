@@ -13,7 +13,7 @@ address:
   country: Spain
 
 summary: An oral presentation of our paper work in IWSDS 2025 
-abstract: 'When patients consult their doctor, they may experience negative emotions due to the severity and urgency of their situation. If the model can provide appropriate comfort and empathy based on the patient's negative emotions while answering medical questions, it will likely offer a more reassuring experience during the medical consultation process. To address this issue, our paper explores the balance between knowledge sharing and emotional support in the healthcare dialogue process.'
+abstract: When patients consult their doctor, they may experience negative emotions due to the severity and urgency of their situation. If the model can provide appropriate comfort and empathy based on the patient's negative emotions while answering medical questions, it will likely offer a more reassuring experience during the medical consultation process. To address this issue, our paper explores the balance between knowledge sharing and emotional support in the healthcare dialogue process.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
