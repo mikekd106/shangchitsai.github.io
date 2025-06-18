@@ -10,7 +10,9 @@ authors:
 date: '2025-01-01'
 publishDate: '2025-06-18T06:42:04.657832Z'
 publication_types:
-- manuscript
+- paper-conference
+publication: '*The 14th International Workshop on Spoken Dialogue Systems
+  Technology* (IWSDS 2024)'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2506.13956

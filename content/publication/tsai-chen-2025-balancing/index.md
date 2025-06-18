@@ -9,7 +9,7 @@ publishDate: '2025-06-16T09:00:54.256946Z'
 publication_types:
 - paper-conference
 publication: '*The 15th International Workshop on Spoken Dialogue Systems
-  Technology*(IWSDS 2025)'
+  Technology* (IWSDS 2025)'
 abstract: With the advancement of large language models, many dialogue systems are
   now capable of providing reasonable and informative responses to patients' medical
   conditions. However, when patients consult their doctor, they may experience negative
