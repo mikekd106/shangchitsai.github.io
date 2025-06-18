@@ -15,5 +15,5 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2506.13956
 - name: URL
-  url: https://arxiv.org/abs/2506.13956
+  url: https://www.csie.ntu.edu.tw/~yvchen/doc/IWSDS24_ASMR.pdf
 ---
