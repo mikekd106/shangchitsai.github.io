@@ -12,12 +12,12 @@ address:
   postcode: '48009'
   country: Spain
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: An oral presentation of our paper work in IWSDS 2025 
+abstract: 'When patients consult their doctor, they may experience negative emotions due to the severity and urgency of their situation. If the model can provide appropriate comfort and empathy based on the patient's negative emotions while answering medical questions, it will likely offer a more reassuring experience during the medical consultation process. To address this issue, our paper explores the balance between knowledge sharing and emotional support in the healthcare dialogue process.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
+date: '2025-05-27T14:30:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
@@ -41,9 +41,9 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: 'https://github.com/MiuLab/EmoDoctor'
 url_pdf: ''
-url_slides: 'https://slideshare.net'
+url_slides: ''
 url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
