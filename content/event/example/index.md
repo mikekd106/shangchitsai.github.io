@@ -44,7 +44,7 @@ image:
 url_code: 'https://github.com/MiuLab/EmoDoctor'
 url_pdf: ''
 url_slides: 'https://docs.google.com/presentation/d/1amf9VLuHoedVszS2XJs1qNotFa6Xr_-i/edit?usp=sharing&ouid=104560555871695589470&rtpof=true&sd=true'
-url_video: 'https://youtube.com'
+url_video: 'https://youtu.be/p-nUU2Ur9rI'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
