@@ -33,8 +33,9 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](static/uploads/oral.png)'
+  caption: ''
   focal_point: Right
+  filename: 'static/uploads/oral.png'
 
 #links:
 #  - icon: twitter
