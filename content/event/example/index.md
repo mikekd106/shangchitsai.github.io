@@ -34,7 +34,6 @@ featured: false
 
 image:
   caption: ''
-  focal_point: Right
   filename: 'assets/media/featured.jpg'
 
 #links:
