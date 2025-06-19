@@ -20,7 +20,7 @@ featured: true
 
 banner:
   caption: ''
-  image: 'static/media/featured.jpg'
+  image: 'assets/media/featured.jpg'
 
 links:
 - name: arXiv
