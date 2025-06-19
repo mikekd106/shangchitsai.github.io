@@ -16,6 +16,9 @@ tags:
   - Large Language Models
 
 featured: true
+banner:
+  caption: ''
+  image: 'assets/media/featured.jpg'
 
 links:
 - name: arXiv
