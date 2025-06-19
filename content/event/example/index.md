@@ -35,7 +35,7 @@ featured: false
 image:
   caption: ''
   focal_point: Right
-  filename: 'static/uploads/oral.png'
+  filename: 'assets/media/featured.jpg'
 
 #links:
 #  - icon: twitter
