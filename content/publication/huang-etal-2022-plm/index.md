@@ -18,6 +18,10 @@ tags:
 
 featured: true
 
+banner:
+  caption: ''
+  image: 'static/media/featured.jpg'
+
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2207.05289
