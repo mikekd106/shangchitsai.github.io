@@ -1,26 +1,25 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: 🎉 Our work received the Best Paper Award at IWSDS 2024
+summary: At IWSDS 2024, our paper exploring large language models for robotic daily life services was highly acclaimed.
+date: 2024-03-06
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ''
 
 authors:
   - admin
-  - Ted
 
 tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+  - Large Language Model
+  - Action Prediction
+  - Robotic Dialogue Task
 ---
 
 Welcome 👋
 
-{{< toc mobile_only=true is_open=true >}}
+{{< toc mobile_only=true is_open=false >}}
 
 ## Overview
 
