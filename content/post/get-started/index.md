@@ -20,13 +20,16 @@ tags:
 
 {{< toc mobile_only=true is_open=true >}}
 
+### Task
+
+### Challenge
 
 
-### Features
+
+
+### Links
 
 - **Source Code** - Our code is available on the [**Github**](https://github.com/MiuLab/ASMR)
 - **Paper Link** - Our paper is available on the [**Arxiv**](https://arxiv.org/abs/2506.13956)
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+
 
