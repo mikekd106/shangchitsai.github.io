@@ -8,7 +8,7 @@ tags:
   - Medical NLP
 ---
 
-This project aims to develop a medical large language model that can both provide emotional comfort and deliver rich medical knowledge when responding to patients' questions.
+This project aims to develop a medical large language model that can both provide emotional comfort and medical knowledge when responding to patients' questions.
 
 
 <!--more-->

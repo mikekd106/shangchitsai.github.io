@@ -8,6 +8,7 @@ tags:
   - Medical NLP
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+We are the first to efficiently apply pretrained language models to the task of automatic ICD coding.
+
 
 <!--more-->
