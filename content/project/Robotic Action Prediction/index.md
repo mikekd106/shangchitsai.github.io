@@ -8,6 +8,6 @@ tags:
   - Data Augmentation
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+We developed a multi-modal model that can predict appropriate service actions based on the surrounding environment and human requests.
 
 <!--more-->
