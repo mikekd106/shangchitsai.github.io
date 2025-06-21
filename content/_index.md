@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My research focuses on the application of natural language processing in the medical domain. I have published a series of papers that explore solutions for the task of Automatic ICD Coding. These solutions enable models to efficiently comprehend the textual content of patient health records, thereby assisting physicians in rapidly predicting corresponding diagnoses and treatments. 
     design:
       columns: '1'
   - block: collection
