@@ -8,6 +8,7 @@ tags:
   - Medical NLP
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+This project aims to develop a medical large language model that can both provide emotional comfort and deliver rich medical knowledge when responding to patients' questions.
+
 
 <!--more-->
