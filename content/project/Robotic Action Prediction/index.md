@@ -1,6 +1,6 @@
 ---
 title: Robotic Action Prediction
-date: 2024-4-26
+date: 2024-04-26
 external_link: https://github.com/MiuLab/ASMR
 tags:
   - Large Language Model
