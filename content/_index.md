@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research focuses on the application of natural language processing in the medical domain. I have published a series of papers that explore solutions for the task of Automatic ICD Coding. These solutions enable models to efficiently comprehend the textual content of patient health records, thereby assisting physicians in rapidly predicting corresponding diagnoses and treatments. 
+        My research focuses on the application of natural language processing in the medical domain. I have published a series of papers that explore solutions for the task of Automatic ICD Coding. These solutions enable models to efficiently comprehend the textual content of patient health records, thereby assisting physicians in rapidly predicting corresponding diagnoses and treatments. I've also developed large language models for healthcare to offer patients improved medical consultation and lifestyle assistance. This work aims to better integrate LLMs into practical medical applications. If you're interested in my research, I welcome you to contact me for potential collaboration.
     design:
       columns: '1'
   - block: collection
