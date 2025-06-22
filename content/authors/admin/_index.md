@@ -158,11 +158,11 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Our work received the Best Paper Award at IWSDS 2024
+  - title: The Best Paper Award at IWSDS 2024
     url: https://sites.google.com/grp.riken.jp/iwsds2024
     date: '2024-03-06'
-    awarder: IWSDS 2024
-    icon: 
+    awarder: IWSDS 
+    icon: 🎉
     summary: |
       When designing robots to assist in everyday human activities, it is crucial to enhance user requests with visual cues from their surroundings for improved intent understanding. This process is defined as a multimodal classification task. However, gathering a large-scale dataset encompassing both visual and linguistic elements for model training is challenging and time-consuming. To address this issue, our paper introduces a novel framework focusing on data augmentation in robotic assistance scenarios, encompassing both dialogues and related environmental imagery. The generated data serves to refine the latest multimodal models, enabling them to more accurately determine appropriate actions in response to user interactions with the limited target data.
   
