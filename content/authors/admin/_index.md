@@ -162,9 +162,16 @@ awards:
     url: https://sites.google.com/grp.riken.jp/iwsds2024
     date: '2024-03-06'
     awarder: IWSDS 
-    icon: 🎉
+    icon: 
     summary: |
       When designing robots to assist in everyday human activities, it is crucial to enhance user requests with visual cues from their surroundings for improved intent understanding. This process is defined as a multimodal classification task. However, gathering a large-scale dataset encompassing both visual and linguistic elements for model training is challenging and time-consuming. To address this issue, our paper introduces a novel framework focusing on data augmentation in robotic assistance scenarios, encompassing both dialogues and related environmental imagery. The generated data serves to refine the latest multimodal models, enabling them to more accurately determine appropriate actions in response to user interactions with the limited target data.
+  - title: ASUS PhD Fellowship Program 
+    url: https://aics.asus.com/studentprograms/phd-program/
+    date: '2019-09-06'
+    awarder: ASUS
+    icon: 
+    summary: |
+      In odrder to combine academic research publication with the development of AI products at ASUS, this program aims to cultivate high-quality PhD talent and bridge theoretical knowledge with practical applications. The program also seeks to uncover promising and novel research topics. Through industry-academia-research collaboration, the PhD Program aspires to produce impactful research with global visibility by leveraging AICS’s cutting-edge environment for developing advanced AI products.
   
 ---
 
