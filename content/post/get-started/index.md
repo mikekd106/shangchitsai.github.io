@@ -24,7 +24,11 @@ tags:
 ASMR: Augmenting Life Scenario using Large Generative Models for Robotic Action Reflection
 
 ### Main Contribution
-
+In this paper, we introduce a novel pipeline designed to enhance the collection of
+robotic life-support scenario data, traditionally a time-consuming process. Our approach leverages a large language model to simulate dialogues between humans and
+robots, and a large diffusion model to create corresponding images of the environments. We design two distinct types for dialogue generation: place-based augmentation, which focuses on scenarios occurring in specific places, and action-based
+augmentation, which centers around specific actions the robot might perform. Both
+approaches have proven effective in generating realistic and relevant data, significantly aiding in the training of the LLaVA model. This model is fine-tuned to predict suitable actions based on ambiguous user requests and environmental imagery.
 
 
 
