@@ -20,9 +20,10 @@ tags:
 
 {{< toc mobile_only=true is_open=true >}}
 
-### Task
+### Title
+ASMR: Augmenting Life Scenario using Large Generative Models for Robotic Action Reflection
 
-### Challenge
+### Main Contribution
 
 
 

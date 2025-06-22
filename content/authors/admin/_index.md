@@ -165,7 +165,7 @@ awards:
     icon: 
     summary: |
       When designing robots to assist in everyday human activities, it is crucial to enhance user requests with visual cues from their surroundings for improved intent understanding. This process is defined as a multimodal classification task. However, gathering a large-scale dataset encompassing both visual and linguistic elements for model training is challenging and time-consuming. To address this issue, our paper introduces a novel framework focusing on data augmentation in robotic assistance scenarios, encompassing both dialogues and related environmental imagery. The generated data serves to refine the latest multimodal models, enabling them to more accurately determine appropriate actions in response to user interactions with the limited target data.
-  - title: ASUS PhD Fellowship Program 
+  - title: ASUS PhD Fellowship Program 2019
     url: https://aics.asus.com/studentprograms/phd-program/
     date: '2019-09-06'
     awarder: ASUS
